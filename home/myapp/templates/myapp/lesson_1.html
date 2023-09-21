@@ -1,0 +1,25 @@
+{% extends "myapp/base.html" %}
+
+{% block title %}Урок 1{% endblock %}
+
+{% block content %}
+<h1>Первый семинар</h1>
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-3 mb-3">
+            <a href="{% url 'binch' %}" class="btn btn-primary btn-lg btn-block">Монетка</a>
+        </div>
+        <div class="col-md-3 mb-3">
+            <a href="{% url 'dice' %}" class="btn btn-primary btn-lg btn-block">Кубик</a>
+        </div>
+        <div class="col-md-3 mb-3">
+            <a href="{% url 'rand100' %}" class="btn btn-primary btn-lg btn-block">Случайная сотка</a>
+        </div>
+        <div class="col-md-3 mb-3">
+            <a href="{% url 'home3' %}" class="btn btn-primary btn-lg btn-block">Домашнее задание</a>
+        </div>
+    </div>
+</div>
+
+
+{% endblock %}
