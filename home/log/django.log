@@ -1,65 +1,50 @@
-INFO 21-09-2023 10:08:15 autoreload Watching for file changes with StatReloader
-WARNING 21-09-2023 10:08:36 log Not Found: /about/
-WARNING 21-09-2023 10:08:36 basehttp "GET /about/ HTTP/1.1" 404 3402
-INFO 21-09-2023 10:09:25 basehttp "GET /about HTTP/1.1" 200 1066
-INFO 21-09-2023 10:09:38 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\myapp\urls.py changed, reloading.
-INFO 21-09-2023 10:09:39 autoreload Watching for file changes with StatReloader
-INFO 21-09-2023 10:09:43 basehttp "GET /about/ HTTP/1.1" 200 1066
-INFO 21-09-2023 10:09:46 basehttp "GET /about HTTP/1.1" 301 0
-INFO 21-09-2023 10:09:46 basehttp "GET /about/ HTTP/1.1" 200 1066
-INFO 21-09-2023 10:10:00 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\myapp\urls.py changed, reloading.
-INFO 21-09-2023 10:10:01 autoreload Watching for file changes with StatReloader
-INFO 21-09-2023 10:10:07 views Index page accessed
-INFO 21-09-2023 10:10:07 basehttp "GET / HTTP/1.1" 200 2455
-INFO 21-09-2023 10:10:13 basehttp "GET /lesson1/ HTTP/1.1" 200 3023
-INFO 21-09-2023 10:10:16 views Псевдослучайное число: 80
-INFO 21-09-2023 10:10:16 basehttp "GET /rand100/ HTTP/1.1" 200 54
-INFO 21-09-2023 10:10:18 views Кубик 6
-INFO 21-09-2023 10:10:18 basehttp "GET /dice/ HTTP/1.1" 200 22
-INFO 21-09-2023 10:10:20 views Монетка: решка
-INFO 21-09-2023 10:10:20 basehttp "GET /bin/ HTTP/1.1" 200 19
-INFO 21-09-2023 10:10:23 views Монетка: решка
-INFO 21-09-2023 10:10:23 basehttp "GET /bin/ HTTP/1.1" 200 19
-INFO 21-09-2023 10:10:25 views Монетка: орел
-INFO 21-09-2023 10:10:25 basehttp "GET /bin/ HTTP/1.1" 200 17
-INFO 21-09-2023 10:10:27 views Кубик 3
-INFO 21-09-2023 10:10:27 basehttp "GET /dice/ HTTP/1.1" 200 22
-INFO 21-09-2023 10:10:29 views Псевдослучайное число: 74
-INFO 21-09-2023 10:10:29 basehttp "GET /rand100/ HTTP/1.1" 200 54
-INFO 21-09-2023 10:17:44 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\myapp\views.py changed, reloading.
-INFO 21-09-2023 10:17:45 autoreload Watching for file changes with StatReloader
-INFO 21-09-2023 10:17:47 basehttp "GET /home HTTP/1.1" 301 0
-INFO 21-09-2023 10:17:47 basehttp "GET /home/ HTTP/1.1" 200 2483
-WARNING 21-09-2023 10:17:53 log Not Found: /home/{% url 'about' %}
-WARNING 21-09-2023 10:17:53 basehttp "GET /home/%7B%%20url%20'about'%20%%7D HTTP/1.1" 404 3667
-WARNING 21-09-2023 10:17:56 log Not Found: /home/index.html
-WARNING 21-09-2023 10:17:56 basehttp "GET /home/index.html HTTP/1.1" 404 3602
-INFO 21-09-2023 10:19:57 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\myapp\views.py changed, reloading.
-INFO 21-09-2023 10:19:58 autoreload Watching for file changes with StatReloader
-INFO 21-09-2023 10:19:59 basehttp "GET /home/ HTTP/1.1" 200 2472
-INFO 21-09-2023 10:20:02 basehttp "GET /about/ HTTP/1.1" 200 1066
-INFO 21-09-2023 10:20:26 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\myapp\views.py changed, reloading.
-INFO 21-09-2023 10:20:27 autoreload Watching for file changes with StatReloader
-INFO 21-09-2023 10:20:28 basehttp "GET /home/ HTTP/1.1" 200 2467
-INFO 21-09-2023 10:20:32 basehttp "GET /home/ HTTP/1.1" 200 2467
-INFO 21-09-2023 10:20:33 basehttp "GET /about/ HTTP/1.1" 200 1066
-INFO 21-09-2023 10:20:38 basehttp "GET /home/ HTTP/1.1" 200 2467
-INFO 21-09-2023 10:21:50 basehttp "GET /home/ HTTP/1.1" 200 2467
-INFO 21-09-2023 10:21:52 views Index page accessed
-INFO 21-09-2023 10:21:52 basehttp "GET / HTTP/1.1" 200 2455
-INFO 21-09-2023 10:21:56 basehttp "GET /lesson1/ HTTP/1.1" 200 3048
-INFO 21-09-2023 10:22:14 basehttp "GET /lesson1/ HTTP/1.1" 200 3039
-INFO 21-09-2023 10:22:17 basehttp "GET /home/ HTTP/1.1" 200 2467
-INFO 21-09-2023 10:22:20 basehttp "GET /about/ HTTP/1.1" 200 1066
-INFO 21-09-2023 10:23:55 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\myapp\views.py changed, reloading.
-INFO 21-09-2023 10:23:56 autoreload Watching for file changes with StatReloader
-INFO 21-09-2023 10:24:02 basehttp "GET /home/ HTTP/1.1" 200 2467
-INFO 21-09-2023 10:24:02 basehttp "GET /about/ HTTP/1.1" 200 1066
-INFO 21-09-2023 10:24:04 basehttp "GET /about/ HTTP/1.1" 200 1066
-INFO 21-09-2023 10:24:06 views Index page accessed
-INFO 21-09-2023 10:24:06 basehttp "GET / HTTP/1.1" 200 2455
-INFO 21-09-2023 10:24:09 views Index page accessed
-INFO 21-09-2023 10:24:09 basehttp "GET / HTTP/1.1" 200 2455
-INFO 21-09-2023 10:24:12 basehttp "GET /lesson1/ HTTP/1.1" 200 3039
-INFO 21-09-2023 10:24:13 basehttp "GET /home/ HTTP/1.1" 200 2467
-INFO 21-09-2023 10:24:16 basehttp "GET /about/ HTTP/1.1" 200 1066
+INFO 24-09-2023 10:22:38 autoreload Watching for file changes with StatReloader
+INFO 24-09-2023 10:24:21 autoreload C:\Users\ersho\PycharmProjects\gb_django_1\home\home\settings.py changed, reloading.
+INFO 24-09-2023 10:27:17 autoreload Watching for file changes with StatReloader
+ERROR 24-09-2023 10:27:29 log Internal Server Error: /h2shop/iv/
+Traceback (most recent call last):
+  File "C:\Users\ersho\PycharmProjects\gb_django_1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\PycharmProjects\gb_django_1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\PycharmProjects\gb_django_1\home\home2shopapp\views.py", line 20, in is_visible
+    if data['id']:
+       ~~~~^^^^^^
+TypeError: string indices must be integers, not 'str'
+ERROR 24-09-2023 10:27:29 basehttp "GET /h2shop/iv/?id=1&is_visible=0 HTTP/1.1" 500 65965
+INFO 24-09-2023 10:30:18 autoreload C:\Users\ersho\PycharmProjects\gb_django_1\home\home2shopapp\views.py changed, reloading.
+INFO 24-09-2023 10:30:19 autoreload Watching for file changes with StatReloader
+INFO 24-09-2023 10:30:22 basehttp "GET /h2shop/iv/?id=1&is_visible=0 HTTP/1.1" 200 84
+INFO 24-09-2023 10:31:14 autoreload C:\Users\ersho\PycharmProjects\gb_django_1\home\home2shopapp\views.py changed, reloading.
+INFO 24-09-2023 10:32:12 autoreload Watching for file changes with StatReloader
+INFO 24-09-2023 11:07:45 autoreload C:\Users\ersho\PycharmProjects\gb_django_1\home\home2shopapp\views.py changed, reloading.
+INFO 24-09-2023 11:07:46 autoreload Watching for file changes with StatReloader
+INFO 24-09-2023 11:07:49 basehttp "GET /h2shop/ HTTP/1.1" 200 208
+INFO 24-09-2023 11:09:06 autoreload C:\Users\ersho\PycharmProjects\gb_django_1\home\home2shopapp\views.py changed, reloading.
+INFO 24-09-2023 11:09:06 autoreload Watching for file changes with StatReloader
+INFO 24-09-2023 11:09:07 basehttp "GET /h2shop/ HTTP/1.1" 200 127
+INFO 24-09-2023 11:15:14 autoreload C:\Users\ersho\PycharmProjects\gb_django_1\home\home2shopapp\views.py changed, reloading.
+INFO 24-09-2023 11:15:14 autoreload Watching for file changes with StatReloader
+INFO 24-09-2023 11:17:23 autoreload C:\Users\ersho\PycharmProjects\gb_django_1\home\home2shopapp\views.py changed, reloading.
+INFO 24-09-2023 11:17:24 autoreload Watching for file changes with StatReloader
+WARNING 24-09-2023 11:17:33 log Not Found: /h2shop/del_product/1&confirm=yes
+WARNING 24-09-2023 11:17:33 basehttp "GET /h2shop/del_product/1&confirm=yes HTTP/1.1" 404 4311
+WARNING 24-09-2023 11:17:52 log Not Found: /h2shop/del/1&confirm=yes
+WARNING 24-09-2023 11:17:52 basehttp "GET /h2shop/del/1&confirm=yes HTTP/1.1" 404 4287
+INFO 24-09-2023 11:18:10 basehttp "GET /h2shop/del/1?confirm=yes HTTP/1.1" 200 34
+INFO 24-09-2023 11:18:56 autoreload C:\Users\ersho\PycharmProjects\gb_django_1\home\home2shopapp\views.py changed, reloading.
+INFO 24-09-2023 11:18:56 autoreload Watching for file changes with StatReloader
+INFO 24-09-2023 11:20:25 autoreload C:\Users\ersho\PycharmProjects\gb_django_1\home\home2shopapp\models.py changed, reloading.
+INFO 24-09-2023 11:20:26 autoreload Watching for file changes with StatReloader
+INFO 24-09-2023 11:25:44 autoreload Watching for file changes with StatReloader
+INFO 24-09-2023 11:25:47 basehttp "GET /h2shop/ HTTP/1.1" 200 246
+INFO 24-09-2023 11:28:42 autoreload C:\Users\ersho\PycharmProjects\gb_django_1\home\home2shopapp\views.py changed, reloading.
+INFO 24-09-2023 11:28:42 autoreload Watching for file changes with StatReloader
+INFO 24-09-2023 11:29:45 autoreload C:\Users\ersho\PycharmProjects\gb_django_1\home\home2shopapp\models.py changed, reloading.
+INFO 24-09-2023 11:29:45 autoreload Watching for file changes with StatReloader
+INFO 24-09-2023 11:29:47 basehttp "GET /h2shop/ HTTP/1.1" 200 258
+INFO 24-09-2023 11:30:06 basehttp "GET /h2shop/del/8 HTTP/1.1" 200 67
+INFO 24-09-2023 11:30:32 basehttp "GET /h2shop/iv/?id=8&is_visible=1 HTTP/1.1" 200 110
+INFO 24-09-2023 11:30:40 basehttp "GET /h2shop/ HTTP/1.1" 200 258

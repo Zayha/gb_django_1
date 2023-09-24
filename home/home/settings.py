@@ -37,7 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'myapp.apps.MyappConfig'
+    'myapp.apps.MyappConfig',
+    'home2app.apps.Home2AppConfig',
+    'home2shopapp.apps.Home2ShopappConfig',
 ]
 
 MIDDLEWARE = [
@@ -181,7 +183,7 @@ LOGGING = {
             'formatter': 'colored',  # Используем созданный форматтер с цветами
         },
         'file': {
-            'class': 'logging.handlers.TimedRotatingFileHandler',
+            'class': 'logging.FileHandler',
             'encoding': 'utf-8',
             'filename': './log/django.log',
             # 'backupCount': 7,
