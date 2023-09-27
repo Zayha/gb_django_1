@@ -1,7 +1,8 @@
 from django.db import models
 
-
 # Create your models here.
+from django.urls import reverse
+
 
 class HeadsOrTails(models.Model):
     result = models.BooleanField(verbose_name='Результаты броска')
@@ -30,6 +31,9 @@ class Author(models.Model):
     def full_name(self):
         return f'{self.name} {self.last_name}'
 
+    def get_absolute_url(self):
+        return reverse('author-articles', args=[str(self.id)])
+
 
 class Article(models.Model):
     title = models.CharField(max_length=200, verbose_name='Заголовок')
@@ -41,6 +45,9 @@ class Article(models.Model):
     is_published = models.BooleanField(default=False, verbose_name='Опубликована?')
     creation_time = models.DateTimeField(auto_now_add=True, verbose_name='Добавлена в базу')
 
+    def get_absolute_url(self):
+        return reverse('article-detail', args=[str(self.id)])
+
 
 class Comment(models.Model):
     author = models.ForeignKey('Author', verbose_name='Автор комментария', on_delete=models.DO_NOTHING)
@@ -48,3 +55,6 @@ class Comment(models.Model):
     comment = models.TextField(verbose_name='Текст комментария')
     creation_date = models.DateTimeField(auto_now_add=True, verbose_name='Дата создания')
     modified_date = models.DateTimeField(auto_now=True, verbose_name='Дата изменения')
+
+    def __str__(self):
+        return f'{self.pk}\t{self.comment}'

@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block title %}{{title}}{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <h1 class="mt-5">{{title}}</h1>
+        <ul class="list-group mt-3">
+            <li class="list-group-item">Сумма заказа: {{order.total_price}} р.</li>
+            <li class="list-group-item">Клиент: {{order.client}}</li>
+            <li class="list-group-item">Дата заказа: {{order.creation_date}}</li>
+        </ul>
+    </div>
+        {% if products %}
+        <hr>
+        <div class="container">
+        <h5 class="mt-5">Товары в заказе:</h5>
+            <table class="table table-striped">
+             <thead>
+                    <tr>
+                        <th scope="col">id</th>
+                        <th scope="col">Артикул</th>
+                        <th scope="col">Наименование</th>
+                        <th scope="col">Цена, р.</th>
+                        <th scope="col">Кол-во в заказе, шт</th>
+                    </tr>
+            </thead>
+
+            <tbody>
+            {%for product in products %}
+                <tr>
+                    <td>{{product.products.id}}</td>
+                    <td>{{product.products.art}}</td>
+                    <td>{{product.products.title}}</td>
+                    <td>{{product.products.unit_price}}</td>
+                    <td>{{product.qty}}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+            </table>
+        </div>
+            {% else %}
+            <hr>
+            <div class="container">
+        <h5 class="mt-5">Нет товаров в заказе</h5>
+            </div>
+        {%endif%}
+{% endblock %}

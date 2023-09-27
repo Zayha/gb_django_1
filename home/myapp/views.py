@@ -3,13 +3,31 @@ import random
 
 from django.http import HttpResponse
 from django.shortcuts import render
+from django.views.generic import TemplateView
 
-logger = logging.getLogger(__name__)
+
+# logger = logging.getLogger(__name__)
 
 
-def index(request):
-    logger.info('Index page accessed')
-    return render(request, 'myapp/index.html')
+# def index(request):
+#     logger.info('Index page accessed')
+#     return render(request, 'myapp/index.html')
+class Index(TemplateView):
+    template_name = 'myapp/index.html'
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context["title"] = 'Главная страница'
+        return context
+
+
+class About(TemplateView):
+    template_name = 'myapp/about.html'
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context["title"] = 'О нас'
+        return context
 
 
 def index2(request):
@@ -70,19 +88,56 @@ def index_wo_templates(request):
 def bin_choices(request):
     lst = ['орел', 'решка']
     result = random.choices(lst)[0]
-    logger.info(f'Монетка: {result}')
+    # logger.info(f'Монетка: {result}')
     return HttpResponse(f'<h1>{result}</h1>')
+
+
+class BinChoices(TemplateView):
+    template_name = 'myapp/results.html'
+
+    @staticmethod
+    def get_bin(n):
+        return {i: random.choices(['орел', 'решка'])[0] for i in range(n)}
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        n = self.kwargs.get('n')
+        context["title"] = 'Статистика по результатам бросков монетки'
+        context["results"] = self.get_bin(n)
+        return context
+
+
+class Dice(TemplateView):
+    template_name = 'myapp/results.html'
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        n = self.kwargs.get('n')
+        context["title"] = 'Статистика по результатам бросков кубика'
+        context["results"] = {i: random.randint(1, 6) for i in range(n)}
+        return context
 
 
 def dice(request):
     result = random.randint(1, 6)
-    logger.info(f'Кубик {result}')
+    # logger.info(f'Кубик {result}')
     return HttpResponse(f'<h1>Кубик: {result}</h1>')
+
+
+class Rand(TemplateView):
+    template_name = 'myapp/results.html'
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        n = self.kwargs.get('n')
+        context["title"] = 'Статистика по результатам выбора псевдослучайного числа'
+        context["results"] = {i: random.randint(1, 100) for i in range(n)}
+        return context
 
 
 def rand100(request):
     result = random.randint(1, 100)
-    logger.info(f'Псевдослучайное число: {result}')
+    # logger.info(f'Псевдослучайное число: {result}')
     return HttpResponse(f'<h1>Псевдослучайное число: {result}</h1>')
 
 

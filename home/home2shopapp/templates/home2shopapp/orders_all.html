@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}{{title}}{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="mt-5">Orders</h1>
+    <ul class="list-group mt-3">
+        {% for order in orders %}
+        {% if order.is_visible %}
+
+        <li class="list-group-item"><a href="{{order.get_absolute_url}}">id: {{ order.id }}: {{order.total_price}}р, от: {{order.client}},
+            создан: {{order.creation_date}}</a></li>
+        {% else %}
+        <li class="list-group-item">{{ orders.id }} - удален</li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</div>
+{% endblock %}

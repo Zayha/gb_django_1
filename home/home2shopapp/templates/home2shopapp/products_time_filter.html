@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block title %}{{title}}{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <h1 class="mt-5">{{title}}</h1>
+    </div>
+        {% if ordered_products %}
+        <hr>
+        <div class="container">
+        <h5 class="mt-5">Товары в заказе за {{period}}:</h5>
+            <table class="table table-striped">
+             <thead>
+                    <tr>
+                        <th scope="col">id</th>
+                        <th scope="col">Артикул</th>
+                        <th scope="col">Наименование</th>
+                        <th scope="col">Цена, р.</th>
+                    </tr>
+            </thead>
+
+            <tbody>
+            {%for product in ordered_products %}
+                <tr>
+                    <td>{{product.products.id}}</td>
+                    <td>{{product.products.art}}</td>
+                    <td>{{product.products.title}}</td>
+                    <td>{{product.products.unit_price}}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+            </table>
+        </div>
+            {% else %}
+            <hr>
+            <div class="container">
+        <h5 class="mt-5">Нет товаров</h5>
+            </div>
+        {%endif%}
+{% endblock %}

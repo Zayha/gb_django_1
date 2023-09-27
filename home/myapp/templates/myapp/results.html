@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block title %}{{title}}{% endblock %}
+
+{% block content %}
+<h1>{{title}}</h1>
+
+    <div class="container">
+        <h2>Результаты</h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Number</th>
+                    <th>Result</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for number, result in results.items %}
+                <tr>
+                    <td>{{ number }}</td>
+                    <td>{{ result }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+{% endblock %}
