@@ -1,8 +1,9 @@
 from django.db import models
 
-
 # Create your models here.
 from django.urls import reverse
+
+from .utils import upload_to
 
 
 class Client(models.Model):
@@ -25,6 +26,7 @@ class Product(models.Model):
     creation_date = models.DateTimeField(auto_now_add=True, verbose_name='Дата создания')
     modified_date = models.DateTimeField(auto_now=True, verbose_name='Дата изменения')
     is_visible = models.BooleanField(default=False, verbose_name='Отображать товар')
+    photo = models.ImageField(upload_to=upload_to, null=True, blank=True, verbose_name='Фото товара')
 
     def __str__(self):
         return f'id:{self.pk}, артикул:{self.art}, {self.title}, {self.unit_price=}, {self.qty=}, {self.is_visible=}'

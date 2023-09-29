@@ -3,9 +3,11 @@ from datetime import timedelta
 from django.db.models import Prefetch
 from django.http import HttpResponse
 from django.shortcuts import render
+from django.urls import reverse_lazy
 from django.utils import timezone
-from django.views.generic import ListView, DetailView
+from django.views.generic import ListView, DetailView, UpdateView
 
+from .forms import ProductForm, EditImage
 from .models import Product, Order, OrderProduct, Client
 
 
@@ -122,6 +124,31 @@ class ShowAllProductsFromClient(ListView):
 
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
-        context['period'] = self.kwargs.get('period', 'week') if self.kwargs.get('period', 'week') in ["week", "month", "year"] else 'week'
+        context['period'] = self.kwargs.get('period', 'week') if self.kwargs.get('period', 'week') in ["week", "month",
+                                                                                                       "year"] else 'week'
         context['title'] = f'Товары за {context["period"]}'
+        return context
+
+
+class EditProduct(UpdateView):
+    model = Product
+    template_name = 'home2shopapp/show_form.html'
+    form_class = ProductForm
+    success_url = reverse_lazy('success')
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context['title'] = 'Редактировать товар'
+        return context
+
+
+class AddPhotoToProduct(UpdateView):
+    model = Product
+    template_name = 'home2shopapp/show_form.html'
+    form_class = EditImage
+    success_url = reverse_lazy('success')
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context['title'] = 'Редактировать изображение товара'
         return context

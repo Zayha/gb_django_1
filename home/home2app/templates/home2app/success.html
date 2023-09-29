@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block title %}{{title}}{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+    <div class="alert alert-success" role="alert">
+        Данные успешно сохранены!
+    </div>
+    <p>Вы будете перенаправлены на <a href="{{ url_home }}">домашнюю страницу</a> через 3 секунды...</p>
+</div>
+
+<script>
+    setTimeout(function() {
+        window.location.href = "{{ url_home }}";
+    }, 3000);
+</script>
+{% endblock %}

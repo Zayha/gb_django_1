@@ -1,7 +1,7 @@
 from django.urls import path
 
 from myapp.views import Index, bin_choices, dice, rand100, index2, lesson1, zero, index_wo_templates, About, BinChoices, \
-    Dice, Rand
+    Dice, Rand, FunkSelector
 
 urlpatterns = [
     path('', Index.as_view(), name='home'),
@@ -17,4 +17,5 @@ urlpatterns = [
     path('l3/bin/<int:n>', BinChoices.as_view(), name='bin_l3'),
     path('l3/dice/<int:n>', Dice.as_view(), name='dice_l3'),
     path('l3/rand/<int:n>', Rand.as_view(), name='rand_l3'),
+    path('l4/select/', FunkSelector.as_view(), name='select'),
 ]

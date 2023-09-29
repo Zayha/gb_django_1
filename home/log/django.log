@@ -820,3 +820,1055 @@ INFO 25-09-2023 16:30:16 autoreload Watching for file changes with StatReloader
 INFO 25-09-2023 16:30:18 basehttp "GET /h2shop/l3/products/1/sfdg HTTP/1.1" 200 3777
 INFO 25-09-2023 16:30:56 basehttp "GET /h2shop/l3/products/1/sfdg HTTP/1.1" 200 2917
 INFO 25-09-2023 16:30:56 basehttp "GET /static/myapp/ico/favicon-32x32.png HTTP/1.1" 304 0
+INFO 28-09-2023 14:33:42 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 14:33:44 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 28-09-2023 14:33:44 basehttp "GET /static/myapp/ico/favicon-32x32.png HTTP/1.1" 404 1840
+WARNING 28-09-2023 14:33:44 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 28-09-2023 14:33:44 basehttp "GET /static/myapp/ico/favicon-16x16.png HTTP/1.1" 404 1840
+INFO 28-09-2023 14:33:48 basehttp "GET /lesson1/ HTTP/1.1" 200 3369
+WARNING 28-09-2023 14:33:48 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:34:07 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 28-09-2023 14:34:07 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:38:36 basehttp "GET /h2shop/l3/orders/ HTTP/1.1" 200 3034
+WARNING 28-09-2023 14:38:36 basehttp "GET /static/myapp/ico/favicon-32x32.png HTTP/1.1" 404 1840
+WARNING 28-09-2023 14:38:36 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 28-09-2023 14:38:36 basehttp "GET /static/myapp/ico/favicon-16x16.png HTTP/1.1" 404 1840
+INFO 28-09-2023 14:38:40 basehttp "GET /h2shop/l3/order/1 HTTP/1.1" 200 4246
+WARNING 28-09-2023 14:38:40 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 28-09-2023 14:38:46 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:38:52 basehttp "GET /h2shop/l3/order/1 HTTP/1.1" 200 4246
+WARNING 28-09-2023 14:38:52 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 28-09-2023 14:39:03 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:40:01 basehttp "GET /h2shop/l3/orders/1 HTTP/1.1" 200 3034
+WARNING 28-09-2023 14:40:01 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:40:06 basehttp "GET /h2shop/l3/orders/2 HTTP/1.1" 200 2789
+WARNING 28-09-2023 14:40:06 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:40:11 basehttp "GET /h2shop/l3/orders/1 HTTP/1.1" 200 3034
+WARNING 28-09-2023 14:40:11 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:40:13 basehttp "GET /h2shop/l3/order/1 HTTP/1.1" 200 4246
+WARNING 28-09-2023 14:40:13 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 28-09-2023 14:40:19 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:40:20 basehttp "GET /h2shop/l3/order/1 HTTP/1.1" 200 4246
+WARNING 28-09-2023 14:40:20 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 28-09-2023 14:40:23 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:40:26 basehttp "GET /h2shop/l3/orders/1 HTTP/1.1" 200 3034
+WARNING 28-09-2023 14:40:26 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:40:29 basehttp "GET /h2shop/l3/orders/2 HTTP/1.1" 200 2789
+WARNING 28-09-2023 14:40:29 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:40:32 basehttp "GET /h2shop/l3/orders/0 HTTP/1.1" 200 2789
+WARNING 28-09-2023 14:40:32 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:40:35 basehttp "GET /h2shop/l3/orders/ HTTP/1.1" 200 3034
+WARNING 28-09-2023 14:40:35 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:40:38 basehttp "GET /h2shop/l3/order/1 HTTP/1.1" 200 4246
+WARNING 28-09-2023 14:40:38 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 28-09-2023 14:41:41 log Not Found: /h2shop/'l3/products/<int:client_id>/<str:period>
+WARNING 28-09-2023 14:41:41 basehttp "GET /h2shop/'l3/products/%3Cint:client_id%3E/%3Cstr:period%3E HTTP/1.1" 404 6579
+WARNING 28-09-2023 14:41:55 log Not Found: /h2shop/l3/products/<int:client_id>/<str:period>
+WARNING 28-09-2023 14:41:55 basehttp "GET /h2shop/l3/products/%3Cint:client_id%3E/%3Cstr:period%3E HTTP/1.1" 404 6561
+INFO 28-09-2023 14:41:59 basehttp "GET /h2shop/l3/products/1/%3Cstr:period%3E HTTP/1.1" 200 2917
+WARNING 28-09-2023 14:41:59 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:42:05 basehttp "GET /h2shop/l3/products/1/month HTTP/1.1" 200 2919
+WARNING 28-09-2023 14:42:05 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 14:42:10 basehttp "GET /h2shop/l3/products/1/year HTTP/1.1" 200 3777
+WARNING 28-09-2023 14:42:10 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:07:26 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\urls.py changed, reloading.
+INFO 28-09-2023 18:07:27 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:07:29 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 28-09-2023 18:07:30 basehttp "GET /static/myapp/ico/favicon-32x32.png HTTP/1.1" 404 1840
+WARNING 28-09-2023 18:07:30 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 28-09-2023 18:07:30 basehttp "GET /static/myapp/ico/favicon-16x16.png HTTP/1.1" 404 1840
+INFO 28-09-2023 18:07:36 basehttp "GET /l4/select HTTP/1.1" 301 0
+ERROR 28-09-2023 18:07:36 log Internal Server Error: /l4/select/
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'endblock'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 12: 'endblock'. Did you forget to register or load this tag?
+ERROR 28-09-2023 18:07:36 basehttp "GET /l4/select/ HTTP/1.1" 500 147596
+WARNING 28-09-2023 18:07:36 log Not Found: /favicon.ico
+WARNING 28-09-2023 18:07:36 basehttp "GET /favicon.ico HTTP/1.1" 404 5352
+INFO 28-09-2023 18:08:11 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 28-09-2023 18:08:11 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 28-09-2023 18:08:14 log Not Found: /4
+WARNING 28-09-2023 18:08:14 basehttp "GET /4 HTTP/1.1" 404 5322
+WARNING 28-09-2023 18:08:24 log Not Found: /l4
+WARNING 28-09-2023 18:08:24 basehttp "GET /l4 HTTP/1.1" 404 5325
+WARNING 28-09-2023 18:08:27 log Not Found: /l4/
+WARNING 28-09-2023 18:08:27 basehttp "GET /l4/ HTTP/1.1" 404 5328
+INFO 28-09-2023 18:08:31 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:08:31 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:10:03 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:10:03 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:11:43 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:11:44 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:11:56 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:11:57 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:12:03 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 28-09-2023 18:12:04 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:12:18 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:12:18 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:12:19 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:12:19 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:12:20 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:12:20 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:12:20 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:12:20 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:12:22 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:12:22 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:12:22 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:12:22 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:12:22 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:12:22 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:12:22 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:12:22 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:12:56 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:12:56 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:13:04 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:13:04 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:13:04 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:13:04 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:13:05 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:13:05 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:13:05 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:13:05 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:13:05 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:13:05 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:13:05 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:13:05 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:13:05 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:13:05 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:13:05 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:13:05 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+ERROR 28-09-2023 18:13:06 log Internal Server Error: /l4/select/
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: FunkSelector.post() takes 1 positional argument but 2 were given
+ERROR 28-09-2023 18:13:06 basehttp "POST /l4/select/ HTTP/1.1" 500 72108
+WARNING 28-09-2023 18:13:08 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:13:15 basehttp "GET /l4/select/ HTTP/1.1" 200 2884
+WARNING 28-09-2023 18:13:15 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:15:58 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:15:58 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:20:22 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:20:22 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:20:24 basehttp "GET /l4/select/ HTTP/1.1" 200 3221
+WARNING 28-09-2023 18:20:24 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:22:59 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\forms.py changed, reloading.
+INFO 28-09-2023 18:22:59 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:23:01 basehttp "GET /l4/select/ HTTP/1.1" 200 3460
+WARNING 28-09-2023 18:23:01 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:24:32 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\forms.py changed, reloading.
+INFO 28-09-2023 18:24:33 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:24:34 basehttp "GET /l4/select/ HTTP/1.1" 200 3543
+WARNING 28-09-2023 18:24:34 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:25:48 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\forms.py changed, reloading.
+INFO 28-09-2023 18:25:48 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:25:52 basehttp "GET /l4/select/ HTTP/1.1" 200 3553
+WARNING 28-09-2023 18:25:52 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+ERROR 28-09-2023 18:25:58 log Internal Server Error: /l4/select/
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp.views.view didn't return an HttpResponse object. It returned None instead.
+ERROR 28-09-2023 18:25:58 basehttp "POST /l4/select/ HTTP/1.1" 500 67535
+INFO 28-09-2023 18:27:26 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:27:27 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:27:37 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:27:37 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:28:11 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:28:11 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:28:25 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:28:25 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:29:51 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:29:51 autoreload Watching for file changes with StatReloader
+WARNING 28-09-2023 18:29:54 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+ERROR 28-09-2023 18:29:59 log Internal Server Error: /l4/select/
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp.views.view didn't return an HttpResponse object. It returned None instead.
+ERROR 28-09-2023 18:29:59 basehttp "POST /l4/select/ HTTP/1.1" 500 67537
+INFO 28-09-2023 18:32:52 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:32:53 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:33:04 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:33:05 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:34:18 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:34:19 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:35:27 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:35:28 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:38:11 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:38:11 autoreload Watching for file changes with StatReloader
+WARNING 28-09-2023 18:38:20 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+ERROR 28-09-2023 18:38:22 log Internal Server Error: /l4/select/
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+       ^^^^^^^^^^^^
+AttributeError: '__proxy__' object has no attribute 'get'
+ERROR 28-09-2023 18:38:22 basehttp "POST /l4/select/ HTTP/1.1" 500 66036
+INFO 28-09-2023 18:38:45 basehttp "GET /l4/select/ HTTP/1.1" 200 3553
+WARNING 28-09-2023 18:38:45 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+ERROR 28-09-2023 18:38:50 log Internal Server Error: /l4/select/
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+       ^^^^^^^^^^^^
+AttributeError: '__proxy__' object has no attribute 'get'
+ERROR 28-09-2023 18:38:50 basehttp "POST /l4/select/ HTTP/1.1" 500 66032
+INFO 28-09-2023 18:41:50 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\myapp\views.py changed, reloading.
+INFO 28-09-2023 18:41:50 autoreload Watching for file changes with StatReloader
+WARNING 28-09-2023 18:41:54 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:41:58 basehttp "POST /l4/select/ HTTP/1.1" 302 0
+INFO 28-09-2023 18:41:58 basehttp "GET /l3/dice/100 HTTP/1.1" 200 15467
+WARNING 28-09-2023 18:41:58 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 28-09-2023 18:42:14 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:42:14 basehttp "GET /l4/select/ HTTP/1.1" 200 3553
+WARNING 28-09-2023 18:42:14 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:42:18 basehttp "POST /l4/select/ HTTP/1.1" 302 0
+INFO 28-09-2023 18:42:18 basehttp "GET /l3/bin/6 HTTP/1.1" 200 3963
+WARNING 28-09-2023 18:42:18 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 28-09-2023 18:42:22 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:42:27 basehttp "POST /l4/select/ HTTP/1.1" 302 0
+INFO 28-09-2023 18:42:27 basehttp "GET /l3/rand/5 HTTP/1.1" 200 3849
+WARNING 28-09-2023 18:42:28 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 18:48:52 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 28-09-2023 18:48:53 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:51:11 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 28-09-2023 18:51:11 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:54:18 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 28-09-2023 18:54:19 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:57:27 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 28-09-2023 18:57:27 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:58:32 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\urls.py changed, reloading.
+INFO 28-09-2023 18:58:32 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 18:59:13 basehttp "GET /l4/new_author HTTP/1.1" 301 0
+ERROR 28-09-2023 18:59:13 log Internal Server Error: /l4/new_author/
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loaders\base.py", line 23, in get_template
+    contents = self.get_contents(origin)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loaders\cached.py", line 26, in get_contents
+    return origin.loader.get_contents(origin)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loaders\filesystem.py", line 22, in get_contents
+    with open(origin.name, encoding=self.engine.file_charset) as fp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\ersho\\PycharmProjects\\gb_django_1_\\home\\templates'
+ERROR 28-09-2023 18:59:13 basehttp "GET /l4/new_author/ HTTP/1.1" 500 111103
+ERROR 28-09-2023 19:00:54 log Internal Server Error: /l4/new_author/
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loaders\base.py", line 23, in get_template
+    contents = self.get_contents(origin)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loaders\cached.py", line 26, in get_contents
+    return origin.loader.get_contents(origin)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loaders\filesystem.py", line 22, in get_contents
+    with open(origin.name, encoding=self.engine.file_charset) as fp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\ersho\\PycharmProjects\\gb_django_1_\\home\\templates'
+ERROR 28-09-2023 19:00:54 basehttp "GET /l4/new_author/ HTTP/1.1" 500 111240
+INFO 28-09-2023 19:01:33 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 28-09-2023 19:01:34 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 19:01:36 basehttp "GET /l4/new_author/ HTTP/1.1" 200 3924
+WARNING 28-09-2023 19:01:36 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 28-09-2023 19:03:21 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\forms.py changed, reloading.
+INFO 28-09-2023 19:03:22 autoreload Watching for file changes with StatReloader
+INFO 28-09-2023 19:03:28 basehttp "GET /l4/new_author/ HTTP/1.1" 200 3924
+WARNING 28-09-2023 19:03:28 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:33:58 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 09:33:58 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 09:34:18 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 09:34:18 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 09:35:14 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 09:35:14 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 09:36:37 basehttp "POST /l4/new_author/ HTTP/1.1" 302 0
+INFO 29-09-2023 09:36:37 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:36:37 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:36:40 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:36:40 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:36:43 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:36:43 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:36:46 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:36:46 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:36:49 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:36:49 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:36:52 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:36:52 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:36:55 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:36:55 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:36:56 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:36:56 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:36:59 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:36:59 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:02 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:02 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:05 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:06 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:09 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:09 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:13 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:13 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:17 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:17 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:20 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:20 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:23 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:24 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:27 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:27 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:30 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:30 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:33 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:33 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:36 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:36 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:39 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:39 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:42 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:42 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:45 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:45 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:48 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:48 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:51 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:51 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:54 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:54 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:37:57 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:37:57 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:00 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:00 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:03 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:03 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:06 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:06 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:09 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:09 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:12 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:12 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:15 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:15 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:18 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:18 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:21 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:21 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:24 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:24 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 29-09-2023 09:38:25 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:27 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:27 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:30 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:30 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:33 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:33 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:36 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:36 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:39 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:39 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:42 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:42 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:45 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:45 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:48 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:48 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:51 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:51 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:54 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:54 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:38:57 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:38:57 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:39:00 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:39:00 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:39:03 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:39:03 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:39:30 basehttp "GET /l4/new_author/ HTTP/1.1" 200 3924
+WARNING 29-09-2023 09:39:30 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:43:13 basehttp "POST /l4/new_author/ HTTP/1.1" 302 0
+INFO 29-09-2023 09:43:13 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:43:13 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:43:16 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:43:16 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:43:20 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:43:20 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:43:24 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:43:24 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:43:27 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:43:27 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:43:31 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:43:31 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:43:35 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:43:35 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:43:38 basehttp "GET /l4/success/ HTTP/1.1" 200 3055
+WARNING 29-09-2023 09:43:38 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:44:54 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 09:44:55 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 09:49:06 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 09:49:06 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 09:49:12 basehttp "GET /l4/new_author/ HTTP/1.1" 200 3894
+WARNING 29-09-2023 09:49:12 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:49:30 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 09:49:31 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 09:49:33 basehttp "GET /l4/new_author/ HTTP/1.1" 200 3924
+WARNING 29-09-2023 09:49:33 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:50:14 basehttp "POST /l4/new_author/ HTTP/1.1" 302 0
+INFO 29-09-2023 09:50:14 basehttp "GET /l4/success/ HTTP/1.1" 200 3057
+WARNING 29-09-2023 09:50:14 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:50:17 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 29-09-2023 09:50:17 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:57:37 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 09:57:37 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 09:58:16 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 09:58:16 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 09:58:28 basehttp "GET /l4/success/ HTTP/1.1" 200 3057
+WARNING 29-09-2023 09:58:28 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:58:31 basehttp "GET /l4/new_author/ HTTP/1.1" 200 3924
+WARNING 29-09-2023 09:58:31 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+ERROR 29-09-2023 09:58:40 log Internal Server Error: /l4/new_author/
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view home2app.views.view didn't return an HttpResponse object. It returned None instead.
+ERROR 29-09-2023 09:58:40 basehttp "POST /l4/new_author/ HTTP/1.1" 500 68028
+INFO 29-09-2023 09:59:07 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 09:59:08 autoreload Watching for file changes with StatReloader
+WARNING 29-09-2023 09:59:20 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:59:23 basehttp "POST /l4/new_author/ HTTP/1.1" 302 0
+INFO 29-09-2023 09:59:23 basehttp "GET /l4/success/ HTTP/1.1" 200 3057
+WARNING 29-09-2023 09:59:23 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 09:59:24 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 29-09-2023 09:59:24 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:00:17 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 10:00:17 autoreload Watching for file changes with StatReloader
+WARNING 29-09-2023 10:00:17 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 29-09-2023 10:00:17 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:00:24 basehttp "POST /l4/new_author/ HTTP/1.1" 302 0
+INFO 29-09-2023 10:00:24 basehttp "GET /l4/success/ HTTP/1.1" 200 3057
+WARNING 29-09-2023 10:00:24 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:00:27 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 29-09-2023 10:00:27 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:01:00 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 10:01:01 autoreload Watching for file changes with StatReloader
+WARNING 29-09-2023 10:01:01 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 29-09-2023 10:01:02 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:01:08 basehttp "POST /l4/new_author/ HTTP/1.1" 200 4138
+WARNING 29-09-2023 10:01:08 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:01:11 basehttp "POST /l4/new_author/ HTTP/1.1" 200 4140
+WARNING 29-09-2023 10:01:12 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:01:18 basehttp "POST /l4/new_author/ HTTP/1.1" 302 0
+INFO 29-09-2023 10:01:18 basehttp "GET /l4/success/ HTTP/1.1" 200 3057
+WARNING 29-09-2023 10:01:18 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:01:21 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 29-09-2023 10:01:21 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:04:03 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 10:04:04 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 10:04:06 basehttp "GET /l4/new_author/ HTTP/1.1" 200 3924
+WARNING 29-09-2023 10:04:06 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 29-09-2023 10:04:07 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:04:08 basehttp "POST /l4/new_author/ HTTP/1.1" 302 0
+WARNING 29-09-2023 10:04:08 log Not Found: /l4/new_author/None
+WARNING 29-09-2023 10:04:08 basehttp "GET /l4/new_author/None HTTP/1.1" 404 5727
+INFO 29-09-2023 10:04:51 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 10:04:51 autoreload Watching for file changes with StatReloader
+WARNING 29-09-2023 10:04:53 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:04:54 basehttp "POST /l4/new_author/ HTTP/1.1" 302 0
+WARNING 29-09-2023 10:04:54 log Not Found: /l4/new_author/None
+WARNING 29-09-2023 10:04:54 basehttp "GET /l4/new_author/None HTTP/1.1" 404 5727
+INFO 29-09-2023 10:05:19 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 10:05:19 autoreload Watching for file changes with StatReloader
+WARNING 29-09-2023 10:05:20 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:05:22 basehttp "POST /l4/new_author/ HTTP/1.1" 302 0
+WARNING 29-09-2023 10:05:22 log Not Found: /l4/new_author/None
+WARNING 29-09-2023 10:05:22 basehttp "GET /l4/new_author/None HTTP/1.1" 404 5727
+WARNING 29-09-2023 10:07:09 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 29-09-2023 10:07:09 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 29-09-2023 10:07:11 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:07:15 basehttp "POST /l4/new_author/ HTTP/1.1" 200 4140
+WARNING 29-09-2023 10:07:15 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:07:31 basehttp "POST /l4/new_author/ HTTP/1.1" 200 4140
+WARNING 29-09-2023 10:07:31 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:07:44 basehttp "POST /l4/new_author/ HTTP/1.1" 200 4140
+WARNING 29-09-2023 10:07:44 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:08:23 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 10:08:24 autoreload Watching for file changes with StatReloader
+WARNING 29-09-2023 10:08:25 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:08:27 basehttp "POST /l4/new_author/ HTTP/1.1" 200 4140
+WARNING 29-09-2023 10:08:27 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:08:33 basehttp "POST /l4/new_author/ HTTP/1.1" 200 4140
+WARNING 29-09-2023 10:08:33 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:19:57 basehttp "GET /l4/new_author/ HTTP/1.1" 200 3924
+WARNING 29-09-2023 10:19:57 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:19:59 basehttp "POST /l4/new_author/ HTTP/1.1" 302 0
+INFO 29-09-2023 10:19:59 basehttp "GET /l4/success/ HTTP/1.1" 200 3057
+WARNING 29-09-2023 10:19:59 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:20:02 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 29-09-2023 10:20:02 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 29-09-2023 10:20:10 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:21:15 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 10:22:15 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 10:22:15 basehttp "GET /l4/new_author/ HTTP/1.1" 200 3924
+WARNING 29-09-2023 10:22:15 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:22:26 basehttp "POST /l4/new_author/ HTTP/1.1" 302 0
+INFO 29-09-2023 10:22:26 basehttp "GET /l4/success/ HTTP/1.1" 200 3057
+WARNING 29-09-2023 10:22:27 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:22:30 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 29-09-2023 10:22:30 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:27:22 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 10:27:22 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 10:31:32 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\forms.py changed, reloading.
+INFO 29-09-2023 10:31:32 autoreload Watching for file changes with StatReloader
+WARNING 29-09-2023 10:31:52 log Not Found: /h2/new_article
+WARNING 29-09-2023 10:31:52 basehttp "GET /h2/new_article HTTP/1.1" 404 5897
+WARNING 29-09-2023 10:32:00 log Not Found: /l2/new_article
+WARNING 29-09-2023 10:32:00 basehttp "GET /l2/new_article HTTP/1.1" 404 5897
+INFO 29-09-2023 10:32:08 basehttp "GET /l4/new_article HTTP/1.1" 301 0
+INFO 29-09-2023 10:32:08 basehttp "GET /l4/new_article/ HTTP/1.1" 200 4391
+WARNING 29-09-2023 10:32:08 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:33:08 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\models.py changed, reloading.
+INFO 29-09-2023 10:33:09 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 10:33:09 basehttp "GET /l4/new_article/ HTTP/1.1" 200 4390
+WARNING 29-09-2023 10:33:09 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:34:04 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\forms.py changed, reloading.
+INFO 29-09-2023 10:34:05 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 10:34:26 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\forms.py changed, reloading.
+INFO 29-09-2023 10:34:26 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 10:36:32 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\forms.py changed, reloading.
+INFO 29-09-2023 10:36:33 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 10:38:30 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 10:38:34 basehttp "GET /l4/new_article/ HTTP/1.1" 200 4045
+WARNING 29-09-2023 10:38:34 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:39:01 basehttp "POST /l4/new_article/ HTTP/1.1" 302 0
+INFO 29-09-2023 10:39:01 basehttp "GET /l4/success/ HTTP/1.1" 200 3057
+WARNING 29-09-2023 10:39:01 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:39:04 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 29-09-2023 10:39:04 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 29-09-2023 10:39:40 log Not Found: /L3/authors
+WARNING 29-09-2023 10:39:40 basehttp "GET /L3/authors HTTP/1.1" 404 5885
+INFO 29-09-2023 10:39:48 basehttp "GET /l3/authors HTTP/1.1" 301 0
+INFO 29-09-2023 10:39:48 basehttp "GET /l3/authors/ HTTP/1.1" 200 2928
+WARNING 29-09-2023 10:39:48 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+ERROR 29-09-2023 10:39:50 log Internal Server Error: /l3/author/1/articles/
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\list.py", line 154, in get
+    self.object_list = self.get_queryset()
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py", line 44, in get_queryset
+    return Article.objects.filter(author_id=author_id).order_by('-creation_date')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1659, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 2221, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'creation_date' into field. Choices are: author, author_id, category, comment, creation_time, description, id, is_published, published_date, title, view_count
+ERROR 29-09-2023 10:39:50 basehttp "GET /l3/author/1/articles/ HTTP/1.1" 500 95514
+INFO 29-09-2023 10:41:23 autoreload Watching for file changes with StatReloader
+WARNING 29-09-2023 10:41:26 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+ERROR 29-09-2023 10:41:27 log Internal Server Error: /l3/author/1/articles/
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\list.py", line 154, in get
+    self.object_list = self.get_queryset()
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py", line 44, in get_queryset
+    return Article.objects.filter(author_id=author_id).order_by('-creation_date')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1659, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 2221, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'creation_date' into field. Choices are: author, author_id, category, comment, creation_time, description, id, is_published, published_date, title, view_count
+ERROR 29-09-2023 10:41:27 basehttp "GET /l3/author/1/articles/ HTTP/1.1" 500 95514
+WARNING 29-09-2023 10:41:32 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:41:33 basehttp "GET /l3/authors/ HTTP/1.1" 200 2928
+WARNING 29-09-2023 10:41:33 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+ERROR 29-09-2023 10:41:34 log Internal Server Error: /l3/author/1/articles/
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\list.py", line 154, in get
+    self.object_list = self.get_queryset()
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py", line 44, in get_queryset
+    return Article.objects.filter(author_id=author_id).order_by('-creation_date')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1659, in order_by
+    obj.query.add_ordering(*field_names)
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 2221, in add_ordering
+    self.names_to_path(item.split(LOOKUP_SEP), self.model._meta)
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'creation_date' into field. Choices are: author, author_id, category, comment, creation_time, description, id, is_published, published_date, title, view_count
+ERROR 29-09-2023 10:41:34 basehttp "GET /l3/author/1/articles/ HTTP/1.1" 500 95514
+INFO 29-09-2023 10:41:50 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 10:41:51 autoreload Watching for file changes with StatReloader
+WARNING 29-09-2023 10:41:53 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 10:41:54 basehttp "GET /l3/author/1/articles/ HTTP/1.1" 200 2917
+WARNING 29-09-2023 10:41:54 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 11:22:31 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 11:22:32 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 11:26:28 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 11:26:29 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 11:26:55 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 11:26:56 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 11:30:55 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 11:30:56 autoreload Watching for file changes with StatReloader
+WARNING 29-09-2023 11:31:00 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 11:31:01 basehttp "GET /l3/author/1/articles/ HTTP/1.1" 200 2917
+WARNING 29-09-2023 11:31:01 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 11:31:17 basehttp "GET /l3/author/1/articles/ HTTP/1.1" 200 2946
+WARNING 29-09-2023 11:31:17 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 11:31:18 basehttp "GET /l3/article/1/ HTTP/1.1" 200 4573
+WARNING 29-09-2023 11:31:18 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 11:31:56 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\models.py changed, reloading.
+INFO 29-09-2023 11:31:56 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 11:31:57 basehttp "GET /l3/article/1/ HTTP/1.1" 200 4567
+WARNING 29-09-2023 11:31:57 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 11:32:27 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\forms.py changed, reloading.
+INFO 29-09-2023 11:32:28 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 11:32:29 basehttp "GET /l3/article/1/ HTTP/1.1" 200 4336
+WARNING 29-09-2023 11:32:29 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 11:33:01 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 11:33:01 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 11:36:53 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 11:36:53 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 11:38:03 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\forms.py changed, reloading.
+INFO 29-09-2023 11:38:03 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 11:38:07 basehttp "GET /l3/article/1/ HTTP/1.1" 200 4324
+WARNING 29-09-2023 11:38:07 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 11:38:22 basehttp "POST /l3/article/1/ HTTP/1.1" 302 0
+INFO 29-09-2023 11:38:22 basehttp "GET /l3/article/1/ HTTP/1.1" 200 4557
+WARNING 29-09-2023 11:38:23 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 11:39:01 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\forms.py changed, reloading.
+INFO 29-09-2023 11:39:02 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 11:39:35 basehttp "POST /l3/article/1/ HTTP/1.1" 302 0
+INFO 29-09-2023 11:39:35 basehttp "GET /l3/article/1/ HTTP/1.1" 200 4761
+WARNING 29-09-2023 11:39:35 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 11:42:52 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 11:42:52 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 11:47:22 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 11:47:22 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 11:49:07 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\urls.py changed, reloading.
+INFO 29-09-2023 11:49:07 autoreload Watching for file changes with StatReloader
+WARNING 29-09-2023 11:49:36 log Not Found: /l4/update/1
+WARNING 29-09-2023 11:49:36 basehttp "GET /l4/update/1 HTTP/1.1" 404 6191
+INFO 29-09-2023 11:56:17 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\urls.py changed, reloading.
+INFO 29-09-2023 11:56:17 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 12:00:00 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2app\views.py changed, reloading.
+INFO 29-09-2023 12:00:00 autoreload Watching for file changes with StatReloader
+WARNING 29-09-2023 12:00:03 log Not Found: /l4/update/1
+WARNING 29-09-2023 12:00:03 basehttp "GET /l4/update/1 HTTP/1.1" 404 5888
+INFO 29-09-2023 12:02:10 basehttp "GET /h2shop/l4/update/1 HTTP/1.1" 200 4215
+WARNING 29-09-2023 12:02:10 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 12:02:19 basehttp "POST /h2shop/l4/update/1 HTTP/1.1" 302 0
+INFO 29-09-2023 12:02:19 basehttp "GET /l4/success/ HTTP/1.1" 200 3057
+WARNING 29-09-2023 12:02:19 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 12:02:22 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 29-09-2023 12:02:22 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 12:04:29 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2shopapp\models.py changed, reloading.
+INFO 29-09-2023 12:04:30 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 12:04:38 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2shopapp\models.py changed, reloading.
+INFO 29-09-2023 12:04:39 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 12:08:40 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 12:10:29 autoreload Watching for file changes with StatReloader
+WARNING 29-09-2023 12:11:47 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 12:11:49 basehttp "GET /h2shop/l4/update/1 HTTP/1.1" 200 4366
+WARNING 29-09-2023 12:11:49 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 12:22:28 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2shopapp\models.py changed, reloading.
+INFO 29-09-2023 12:22:29 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 12:23:16 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home\settings.py changed, reloading.
+INFO 29-09-2023 12:23:17 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 12:23:46 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 29-09-2023 12:23:46 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 29-09-2023 12:23:46 basehttp "GET /static/myapp/ico/favicon-32x32.png HTTP/1.1" 404 1840
+WARNING 29-09-2023 12:23:46 basehttp "GET /static/myapp/ico/favicon-16x16.png HTTP/1.1" 404 1840
+INFO 29-09-2023 12:23:55 basehttp "GET /h2shop/l4/update/1 HTTP/1.1" 200 4366
+WARNING 29-09-2023 12:23:55 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 12:24:16 basehttp "POST /h2shop/l4/update/1 HTTP/1.1" 302 0
+INFO 29-09-2023 12:24:16 basehttp "GET /l4/success/ HTTP/1.1" 200 3057
+WARNING 29-09-2023 12:24:16 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 12:24:19 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 29-09-2023 12:24:19 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 12:25:36 basehttp "GET /h2shop/l4/update/1 HTTP/1.1" 200 4396
+WARNING 29-09-2023 12:25:36 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 12:25:42 basehttp "POST /h2shop/l4/update/1 HTTP/1.1" 302 0
+INFO 29-09-2023 12:25:42 basehttp "GET /l4/success/ HTTP/1.1" 200 3057
+WARNING 29-09-2023 12:25:43 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 12:25:46 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 29-09-2023 12:25:46 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 12:27:47 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2shopapp\utils.py changed, reloading.
+INFO 29-09-2023 12:27:47 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 12:30:53 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2shopapp\forms.py changed, reloading.
+INFO 29-09-2023 12:30:53 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 12:31:01 basehttp "GET /h2shop/l4/update/1 HTTP/1.1" 200 4697
+WARNING 29-09-2023 12:31:01 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+WARNING 29-09-2023 12:31:08 log Not Found: /h2shop/l4/add_photo/1
+WARNING 29-09-2023 12:31:08 basehttp "GET /h2shop/l4/add_photo/1 HTTP/1.1" 404 7562
+INFO 29-09-2023 12:31:22 basehttp "GET /h2shop/l4/update_image/1 HTTP/1.1" 200 4722
+WARNING 29-09-2023 12:31:22 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 29-09-2023 12:31:52 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2shopapp\views.py changed, reloading.
+INFO 29-09-2023 12:31:52 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 12:32:02 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2shopapp\views.py changed, reloading.
+INFO 29-09-2023 12:32:02 autoreload Watching for file changes with StatReloader
+ERROR 29-09-2023 12:32:03 log Internal Server Error: /h2shop/l4/update_image/1
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 204, in get
+    return super().get(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 144, in get
+    return self.render_to_response(self.get_context_data())
+                                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2shopapp\views.py", line 152, in get_context_data
+    context = super().get_context_data(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 74, in get_context_data
+    kwargs["form"] = self.get_form()
+                     ^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 39, in get_form
+    return form_class(**self.get_form_kwargs())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\forms\models.py", line 350, in __init__
+    raise ValueError("ModelForm has no model class specified.")
+ValueError: ModelForm has no model class specified.
+ERROR 29-09-2023 12:32:03 basehttp "GET /h2shop/l4/update_image/1 HTTP/1.1" 500 98630
+ERROR 29-09-2023 12:32:05 log Internal Server Error: /h2shop/l4/update_image/1
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 204, in get
+    return super().get(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 144, in get
+    return self.render_to_response(self.get_context_data())
+                                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2shopapp\views.py", line 152, in get_context_data
+    context = super().get_context_data(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 74, in get_context_data
+    kwargs["form"] = self.get_form()
+                     ^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 39, in get_form
+    return form_class(**self.get_form_kwargs())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\forms\models.py", line 350, in __init__
+    raise ValueError("ModelForm has no model class specified.")
+ValueError: ModelForm has no model class specified.
+ERROR 29-09-2023 12:32:05 basehttp "GET /h2shop/l4/update_image/1 HTTP/1.1" 500 98630
+ERROR 29-09-2023 12:32:07 log Internal Server Error: /h2shop/l4/update_image/1
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 204, in get
+    return super().get(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 144, in get
+    return self.render_to_response(self.get_context_data())
+                                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2shopapp\views.py", line 152, in get_context_data
+    context = super().get_context_data(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 74, in get_context_data
+    kwargs["form"] = self.get_form()
+                     ^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 39, in get_form
+    return form_class(**self.get_form_kwargs())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\forms\models.py", line 350, in __init__
+    raise ValueError("ModelForm has no model class specified.")
+ValueError: ModelForm has no model class specified.
+ERROR 29-09-2023 12:32:07 basehttp "GET /h2shop/l4/update_image/1 HTTP/1.1" 500 98630
+INFO 29-09-2023 12:32:18 autoreload Watching for file changes with StatReloader
+ERROR 29-09-2023 12:32:22 log Internal Server Error: /h2shop/l4/update_image/1
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 204, in get
+    return super().get(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 144, in get
+    return self.render_to_response(self.get_context_data())
+                                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2shopapp\views.py", line 152, in get_context_data
+    context = super().get_context_data(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 74, in get_context_data
+    kwargs["form"] = self.get_form()
+                     ^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 39, in get_form
+    return form_class(**self.get_form_kwargs())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\forms\models.py", line 350, in __init__
+    raise ValueError("ModelForm has no model class specified.")
+ValueError: ModelForm has no model class specified.
+ERROR 29-09-2023 12:32:22 basehttp "GET /h2shop/l4/update_image/1 HTTP/1.1" 500 98630
+WARNING 29-09-2023 12:32:25 log Not Found: /h2shop/l4/update_image/
+WARNING 29-09-2023 12:32:25 basehttp "GET /h2shop/l4/update_image/ HTTP/1.1" 404 7568
+ERROR 29-09-2023 12:32:27 log Internal Server Error: /h2shop/l4/update_image/1
+Traceback (most recent call last):
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 204, in get
+    return super().get(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 144, in get
+    return self.render_to_response(self.get_context_data())
+                                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2shopapp\views.py", line 152, in get_context_data
+    context = super().get_context_data(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 74, in get_context_data
+    kwargs["form"] = self.get_form()
+                     ^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\edit.py", line 39, in get_form
+    return form_class(**self.get_form_kwargs())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ersho\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\forms\models.py", line 350, in __init__
+    raise ValueError("ModelForm has no model class specified.")
+ValueError: ModelForm has no model class specified.
+ERROR 29-09-2023 12:32:27 basehttp "GET /h2shop/l4/update_image/1 HTTP/1.1" 500 98493
+INFO 29-09-2023 12:32:49 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\home\home2shopapp\forms.py changed, reloading.
+INFO 29-09-2023 12:32:49 autoreload Watching for file changes with StatReloader
+INFO 29-09-2023 12:32:50 basehttp "GET /h2shop/l4/update_image/1 HTTP/1.1" 200 3632
+WARNING 29-09-2023 12:32:50 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837

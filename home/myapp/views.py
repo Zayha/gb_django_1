@@ -1,9 +1,12 @@
 import logging
 import random
 
-from django.http import HttpResponse
+from django.http import HttpResponse, HttpResponseRedirect
 from django.shortcuts import render
-from django.views.generic import TemplateView
+from django.urls import reverse_lazy
+from django.views.generic import TemplateView, FormView
+
+from myapp.forms import ChoiceForm
 
 
 # logger = logging.getLogger(__name__)
@@ -182,3 +185,20 @@ def about(request):
 
     """
     return HttpResponse(html)
+
+
+class FunkSelector(FormView):
+    template_name = 'myapp/select_funk.html'
+    form_class = ChoiceForm
+
+    def form_valid(self, form):
+        funk = form.cleaned_data['funk']
+        repeats = int(form.cleaned_data['repeats'])
+        if funk == 'D':
+            return HttpResponseRedirect(reverse_lazy('dice_l3', kwargs={'n': repeats}))
+        elif funk == 'B':
+            return HttpResponseRedirect(reverse_lazy('bin_l3', kwargs={'n': repeats}))
+        elif funk == 'R':
+            return HttpResponseRedirect(reverse_lazy('rand_l3', kwargs={'n': repeats}))
+
+
