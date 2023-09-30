@@ -1,6 +1,6 @@
 from django.urls import path
 from .views import show_all, is_visible, del_product, ShowAllOrders, ShowOrderDetails, ShowAllOrdersFromClient, \
-    ShowAllProductsFromClient, EditProduct, AddPhotoToProduct
+    ShowAllProductsFromClient, EditProduct, AddPhotoToProduct, AddNewProduct
 
 urlpatterns = [
     path('', show_all, name='show_all'),
@@ -11,5 +11,5 @@ urlpatterns = [
     path('l3/orders/<int:pk>', ShowAllOrdersFromClient.as_view(), name='orders_from_client'),
     path('l3/products/<int:client_id>/<str:period>', ShowAllProductsFromClient.as_view(), name='show_products'),
     path('l4/update/<int:pk>', EditProduct.as_view(), name='update_product'),
-    path('l4/update_image/<int:pk>', AddPhotoToProduct.as_view(), name='add_photo'),
+    path('l4/products/new', AddNewProduct.as_view(), name='new_product'),
 ]

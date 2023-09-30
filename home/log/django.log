@@ -1877,3 +1877,99 @@ INFO 30-09-2023 11:00:24 basehttp "GET / HTTP/1.1" 200 2802
 INFO 30-09-2023 11:00:24 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 200 263
 INFO 30-09-2023 11:13:09 autoreload Watching for file changes with StatReloader
 INFO 30-09-2023 11:13:47 autoreload Watching for file changes with StatReloader
+WARNING 30-09-2023 11:19:38 log Not Found: /h2/shop/l4/update_image/1
+WARNING 30-09-2023 11:19:38 basehttp "GET /h2/shop/l4/update_image/1 HTTP/1.1" 404 5930
+WARNING 30-09-2023 11:19:39 log Not Found: /favicon.ico
+WARNING 30-09-2023 11:19:39 basehttp "GET /favicon.ico HTTP/1.1" 404 5888
+WARNING 30-09-2023 11:19:48 log Not Found: /shop/l4/update_image/1
+WARNING 30-09-2023 11:19:48 basehttp "GET /shop/l4/update_image/1 HTTP/1.1" 404 5921
+WARNING 30-09-2023 11:19:59 log Not Found: /h2shop/l4/update_image/1
+WARNING 30-09-2023 11:19:59 basehttp "GET /h2shop/l4/update_image/1 HTTP/1.1" 404 7797
+INFO 30-09-2023 11:21:26 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\views.py changed, reloading.
+INFO 30-09-2023 11:21:27 autoreload Watching for file changes with StatReloader
+INFO 30-09-2023 11:24:03 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\urls.py changed, reloading.
+INFO 30-09-2023 11:24:04 autoreload Watching for file changes with StatReloader
+INFO 30-09-2023 11:24:16 basehttp "GET /h2shop/l4/products/new HTTP/1.1" 200 4304
+INFO 30-09-2023 11:24:16 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 304 0
+INFO 30-09-2023 11:25:42 basehttp "POST /h2shop/l4/products/new HTTP/1.1" 302 0
+INFO 30-09-2023 11:25:42 basehttp "GET /l4/success/ HTTP/1.1" 200 3057
+INFO 30-09-2023 11:25:45 basehttp "GET / HTTP/1.1" 200 2802
+INFO 30-09-2023 11:26:32 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\utils.py changed, reloading.
+INFO 30-09-2023 11:26:33 autoreload Watching for file changes with StatReloader
+INFO 30-09-2023 11:26:33 basehttp "GET /h2shop/l4/products/new HTTP/1.1" 200 4304
+ERROR 30-09-2023 11:27:58 log Internal Server Error: /h2shop/l4/products/new
+Traceback (most recent call last):
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\views\generic\edit.py", line 184, in post
+    return super().post(request, *args, **kwargs)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\views\generic\edit.py", line 153, in post
+    return self.form_valid(form)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\views\generic\edit.py", line 135, in form_valid
+    self.object = form.save()
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\forms\models.py", line 542, in save
+    self.instance.save()
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1821, in execute_sql
+    for sql, params in self.as_sql():
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1745, in as_sql
+    value_rows = [
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1746, in <listcomp>
+    [
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1747, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1695, in pre_save_val
+    return field.pre_save(obj, add=True)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\fields\files.py", line 317, in pre_save
+    file.save(file.name, file.file, save=False)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\fields\files.py", line 92, in save
+    name = self.field.generate_filename(self.instance, name)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\db\models\fields\files.py", line 332, in generate_filename
+    filename = self.upload_to(instance, filename)
+TypeError: upload_to() takes 1 positional argument but 2 were given
+ERROR 30-09-2023 11:27:58 basehttp "POST /h2shop/l4/products/new HTTP/1.1" 500 168963
+INFO 30-09-2023 11:29:16 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\utils.py changed, reloading.
+INFO 30-09-2023 11:29:17 autoreload Watching for file changes with StatReloader
+INFO 30-09-2023 11:29:18 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 304 0
+INFO 30-09-2023 11:29:20 basehttp "POST /h2shop/l4/products/new HTTP/1.1" 302 0
+INFO 30-09-2023 11:29:20 basehttp "GET /l4/success/ HTTP/1.1" 200 3057
+INFO 30-09-2023 11:29:23 basehttp "GET / HTTP/1.1" 200 2802
+WARNING 30-09-2023 11:30:15 log Not Found: /h2shop/update/1
+WARNING 30-09-2023 11:30:15 basehttp "GET /h2shop/update/1 HTTP/1.1" 404 7531
+WARNING 30-09-2023 11:30:18 log Not Found: /h2shop/update/2
+WARNING 30-09-2023 11:30:18 basehttp "GET /h2shop/update/2 HTTP/1.1" 404 7531
+WARNING 30-09-2023 11:30:20 log Not Found: /h2shop/update/3
+WARNING 30-09-2023 11:30:20 basehttp "GET /h2shop/update/3 HTTP/1.1" 404 7531
+INFO 30-09-2023 11:30:53 basehttp "GET /h2shop/l4/update/2 HTTP/1.1" 200 4785
+WARNING 30-09-2023 11:31:23 log Not Found: /media/product_photos/2023/9/30/kop2.jpg
+WARNING 30-09-2023 11:31:23 basehttp "GET /media/product_photos/2023/9/30/kop2.jpg HTTP/1.1" 404 5972
+WARNING 30-09-2023 11:31:42 log Not Found: /media/product_photos/2023/9/30/kop2.jpg
+WARNING 30-09-2023 11:31:42 basehttp "GET /media/product_photos/2023/9/30/kop2.jpg HTTP/1.1" 404 5972
+INFO 30-09-2023 11:33:54 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home\urls.py changed, reloading.
+INFO 30-09-2023 11:33:55 autoreload Watching for file changes with StatReloader
+INFO 30-09-2023 11:34:18 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home\urls.py changed, reloading.
+INFO 30-09-2023 11:34:20 autoreload Watching for file changes with StatReloader
+INFO 30-09-2023 11:34:25 basehttp "GET /media/product_photos/2023/9/30/kop2.jpg HTTP/1.1" 200 47585
+INFO 30-09-2023 11:34:37 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home\urls.py changed, reloading.
+INFO 30-09-2023 11:34:38 autoreload Watching for file changes with StatReloader
+INFO 30-09-2023 11:35:30 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home\settings.py changed, reloading.
+INFO 30-09-2023 11:35:32 autoreload Watching for file changes with StatReloader
+INFO 30-09-2023 11:35:34 basehttp "GET /media/product_photos/2023/9/30/kop2.jpg HTTP/1.1" 304 0
+INFO 30-09-2023 11:35:35 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 304 0

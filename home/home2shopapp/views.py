@@ -5,7 +5,7 @@ from django.http import HttpResponse
 from django.shortcuts import render
 from django.urls import reverse_lazy
 from django.utils import timezone
-from django.views.generic import ListView, DetailView, UpdateView
+from django.views.generic import ListView, DetailView, UpdateView, CreateView
 
 from .forms import ProductForm, EditImage
 from .models import Product, Order, OrderProduct, Client
@@ -152,3 +152,16 @@ class AddPhotoToProduct(UpdateView):
         context = super().get_context_data(**kwargs)
         context['title'] = 'Редактировать изображение товара'
         return context
+
+
+class AddNewProduct(CreateView):
+    model = Product
+    template_name = 'home2shopapp/show_form.html'
+    form_class = ProductForm
+    success_url = reverse_lazy('success')
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context['title'] = 'Добавить товар'
+        return context
+
