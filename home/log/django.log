@@ -1872,3 +1872,8 @@ INFO 29-09-2023 12:32:49 autoreload C:\Users\ersho\PycharmProjects\gb_django_1_\
 INFO 29-09-2023 12:32:49 autoreload Watching for file changes with StatReloader
 INFO 29-09-2023 12:32:50 basehttp "GET /h2shop/l4/update_image/1 HTTP/1.1" 200 3632
 WARNING 29-09-2023 12:32:50 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 404 1837
+INFO 30-09-2023 11:00:19 autoreload Watching for file changes with StatReloader
+INFO 30-09-2023 11:00:24 basehttp "GET / HTTP/1.1" 200 2802
+INFO 30-09-2023 11:00:24 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 200 263
+INFO 30-09-2023 11:13:09 autoreload Watching for file changes with StatReloader
+INFO 30-09-2023 11:13:47 autoreload Watching for file changes with StatReloader
