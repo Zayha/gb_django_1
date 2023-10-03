@@ -1973,3 +1973,679 @@ INFO 30-09-2023 11:35:30 autoreload C:\Users\Andre\PycharmProjects\gb_django\hom
 INFO 30-09-2023 11:35:32 autoreload Watching for file changes with StatReloader
 INFO 30-09-2023 11:35:34 basehttp "GET /media/product_photos/2023/9/30/kop2.jpg HTTP/1.1" 304 0
 INFO 30-09-2023 11:35:35 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 304 0
+INFO 02-10-2023 11:58:08 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 11:58:16 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 11:58:17 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 11:58:21 basehttp "GET / HTTP/1.1" 200 2802
+INFO 02-10-2023 11:58:21 basehttp "GET /static/myapp/ico/site.webmanifest HTTP/1.1" 304 0
+INFO 02-10-2023 11:58:49 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 02-10-2023 11:58:49 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4268
+INFO 02-10-2023 11:58:53 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 02-10-2023 11:58:53 basehttp "GET /admin/ HTTP/1.1" 200 5852
+INFO 02-10-2023 11:58:56 basehttp "GET /admin/ HTTP/1.1" 200 5852
+INFO 02-10-2023 11:59:23 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 11:59:25 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 11:59:25 basehttp "GET /admin/ HTTP/1.1" 200 7990
+INFO 02-10-2023 11:59:29 basehttp "GET /admin/home2shopapp/client/ HTTP/1.1" 200 8844
+INFO 02-10-2023 11:59:29 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 11:59:31 basehttp "GET /admin/ HTTP/1.1" 200 7990
+INFO 02-10-2023 11:59:32 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 8891
+INFO 02-10-2023 11:59:32 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 11:59:33 basehttp "GET /admin/ HTTP/1.1" 200 7990
+INFO 02-10-2023 11:59:34 basehttp "GET /admin/home2shopapp/order/ HTTP/1.1" 200 8837
+INFO 02-10-2023 11:59:34 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 11:59:35 basehttp "GET /admin/ HTTP/1.1" 200 7990
+INFO 02-10-2023 11:59:36 basehttp "GET /admin/home2shopapp/product/ HTTP/1.1" 200 10538
+INFO 02-10-2023 11:59:36 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:00:29 basehttp "GET /admin/home2shopapp/product/2/change/ HTTP/1.1" 200 14562
+INFO 02-10-2023 12:00:29 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:00:43 basehttp "GET /admin/home2shopapp/product/ HTTP/1.1" 200 10538
+INFO 02-10-2023 12:01:47 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:01:48 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:01:57 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:01:58 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:02:26 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:02:28 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:02:41 basehttp "GET / HTTP/1.1" 200 2802
+INFO 02-10-2023 12:02:41 basehttp "GET /static/myapp/ico/favicon-32x32.png HTTP/1.1" 200 687
+INFO 02-10-2023 12:02:48 basehttp "GET /admin/ HTTP/1.1" 200 10075
+INFO 02-10-2023 12:02:54 basehttp "GET /admin/home2app/article/ HTTP/1.1" 200 10344
+INFO 02-10-2023 12:02:54 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:02:57 basehttp "GET /admin/ HTTP/1.1" 200 10075
+INFO 02-10-2023 12:02:57 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 10337
+INFO 02-10-2023 12:02:57 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:02:58 basehttp "GET /admin/ HTTP/1.1" 200 10075
+INFO 02-10-2023 12:02:59 basehttp "GET /admin/home2app/comment/ HTTP/1.1" 200 10344
+INFO 02-10-2023 12:02:59 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:03:00 basehttp "GET /admin/ HTTP/1.1" 200 10075
+INFO 02-10-2023 12:03:01 basehttp "GET /admin/home2app/headsortails/ HTTP/1.1" 200 10389
+INFO 02-10-2023 12:03:01 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:03:02 basehttp "GET /admin/ HTTP/1.1" 200 10075
+INFO 02-10-2023 12:03:12 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 10337
+INFO 02-10-2023 12:03:12 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:03:13 basehttp "GET /admin/home2app/author/add/ HTTP/1.1" 200 13931
+INFO 02-10-2023 12:03:13 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:03:37 basehttp "POST /admin/home2app/author/add/ HTTP/1.1" 302 0
+INFO 02-10-2023 12:03:37 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11828
+INFO 02-10-2023 12:03:37 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:03:41 basehttp "GET /admin/home2app/ HTTP/1.1" 200 6708
+INFO 02-10-2023 12:03:43 basehttp "GET /admin/home2app/article/ HTTP/1.1" 200 10344
+INFO 02-10-2023 12:03:43 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:03:44 basehttp "GET /admin/home2app/article/add/ HTTP/1.1" 200 16391
+INFO 02-10-2023 12:03:44 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:04:17 basehttp "POST /admin/home2app/article/add/ HTTP/1.1" 302 0
+INFO 02-10-2023 12:04:17 basehttp "GET /admin/home2app/article/ HTTP/1.1" 200 11844
+INFO 02-10-2023 12:04:17 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:04:22 basehttp "GET /admin/home2app/ HTTP/1.1" 200 6708
+INFO 02-10-2023 12:04:24 basehttp "GET /admin/home2app/comment/ HTTP/1.1" 200 10344
+INFO 02-10-2023 12:04:24 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:04:25 basehttp "GET /admin/home2app/comment/add/ HTTP/1.1" 200 15632
+INFO 02-10-2023 12:04:25 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:04:55 basehttp "POST /admin/home2app/comment/add/ HTTP/1.1" 302 0
+INFO 02-10-2023 12:04:55 basehttp "GET /admin/home2app/comment/ HTTP/1.1" 200 12042
+INFO 02-10-2023 12:04:55 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:05:50 basehttp "GET /admin/ HTTP/1.1" 200 11118
+INFO 02-10-2023 12:05:52 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 10698
+INFO 02-10-2023 12:05:52 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:05:55 basehttp "GET /admin/auth/group/add/ HTTP/1.1" 200 16699
+INFO 02-10-2023 12:05:55 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:06:44 basehttp "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 02-10-2023 12:06:44 basehttp "GET /admin/auth/group/add/ HTTP/1.1" 200 16996
+INFO 02-10-2023 12:06:44 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:07:12 basehttp "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 02-10-2023 12:07:12 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 12396
+INFO 02-10-2023 12:07:12 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:07:53 basehttp "GET /admin/auth/ HTTP/1.1" 200 5902
+INFO 02-10-2023 12:07:55 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 14733
+INFO 02-10-2023 12:07:55 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:07:58 basehttp "GET /admin/auth/user/add/ HTTP/1.1" 200 14045
+INFO 02-10-2023 12:07:58 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:08:13 basehttp "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 02-10-2023 12:08:13 basehttp "GET /admin/auth/user/2/change/ HTTP/1.1" 200 27389
+INFO 02-10-2023 12:08:13 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:08:31 basehttp "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 02-10-2023 12:08:31 basehttp "GET /admin/auth/user/add/ HTTP/1.1" 200 14334
+INFO 02-10-2023 12:08:31 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:08:43 basehttp "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 02-10-2023 12:08:43 basehttp "GET /admin/auth/user/3/change/ HTTP/1.1" 200 27389
+INFO 02-10-2023 12:08:43 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:09:08 basehttp "POST /admin/auth/user/3/change/ HTTP/1.1" 302 0
+INFO 02-10-2023 12:09:08 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 15733
+INFO 02-10-2023 12:09:08 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:11:26 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:11:27 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:11:59 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:12:00 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:12:04 basehttp "GET /admin/ HTTP/1.1" 200 12894
+INFO 02-10-2023 12:12:07 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:12:07 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:12:09 basehttp "GET /admin/home2app/author/1/change/ HTTP/1.1" 200 14390
+INFO 02-10-2023 12:12:09 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:12:09 basehttp "GET /static/admin/img/tooltag-arrowright.svg HTTP/1.1" 200 280
+INFO 02-10-2023 12:12:11 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:12:31 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:12:33 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:12:33 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:12:33 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:12:34 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:12:34 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:12:35 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:12:35 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:12:36 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:12:36 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:12:37 basehttp "GET /admin/home2app/ HTTP/1.1" 200 6708
+INFO 02-10-2023 12:12:39 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:12:39 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:12:41 basehttp "GET /admin/home2app/author/1/change/ HTTP/1.1" 200 14390
+INFO 02-10-2023 12:12:41 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:12:43 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:02 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:13:03 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:13:03 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:03 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:13:05 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:05 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:13:06 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:06 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:13:07 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:07 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:13:07 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:07 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:13:09 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:09 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:13:21 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:13:22 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:13:23 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:23 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:13:24 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:24 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:13:25 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:25 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 02-10-2023 12:13:27 log Internal Server Error: /admin/home2app/author/1/change/
+Traceback (most recent call last):
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\forms\forms.py", line 178, in __getitem__
+    field = self.fields[name]
+KeyError: 'id'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\defaulttags.py", line 193, in render
+    values = list(values)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\contrib\admin\helpers.py", line 156, in __iter__
+    yield AdminField(self.form, field, is_first=(i == 0))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\contrib\admin\helpers.py", line 170, in __init__
+    self.field = form[field]  # A django.forms.BoundField instance
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\forms\forms.py", line 180, in __getitem__
+    raise KeyError(
+KeyError: "Key 'id' not found in 'AuthorForm'. Choices are: name."
+ERROR 02-10-2023 12:13:27 basehttp "GET /admin/home2app/author/1/change/ HTTP/1.1" 500 522817
+INFO 02-10-2023 12:13:34 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:47 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:13:48 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:13:48 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:48 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:13:49 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:49 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:13:50 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11603
+INFO 02-10-2023 12:13:50 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+ERROR 02-10-2023 12:13:51 log Internal Server Error: /admin/home2app/author/1/change/
+Traceback (most recent call last):
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\forms\forms.py", line 178, in __getitem__
+    field = self.fields[name]
+KeyError: 'id'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\template\defaulttags.py", line 193, in render
+    values = list(values)
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\contrib\admin\helpers.py", line 156, in __iter__
+    yield AdminField(self.form, field, is_first=(i == 0))
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\contrib\admin\helpers.py", line 170, in __init__
+    self.field = form[field]  # A django.forms.BoundField instance
+  File "C:\Users\Andre\PycharmProjects\gb_django\venv\lib\site-packages\django\forms\forms.py", line 180, in __getitem__
+    raise KeyError(
+KeyError: "Key 'id' not found in 'AuthorForm'. Choices are: ."
+ERROR 02-10-2023 12:13:51 basehttp "GET /admin/home2app/author/1/change/ HTTP/1.1" 500 522341
+INFO 02-10-2023 12:14:26 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:14:27 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:14:29 basehttp "GET /admin/home2app/author/1/change/ HTTP/1.1" 200 14390
+INFO 02-10-2023 12:14:29 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:14:31 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 11756
+INFO 02-10-2023 12:14:31 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:14:53 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:14:54 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:14:54 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 12160
+INFO 02-10-2023 12:14:54 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:16:14 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:16:15 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:16:52 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:16:53 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:17:18 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:17:20 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:17:22 basehttp "GET /admin/home2app/author/ HTTP/1.1" 200 15088
+INFO 02-10-2023 12:17:22 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:17:28 basehttp "GET /admin/home2app/author/?o=1.5 HTTP/1.1" 200 15198
+INFO 02-10-2023 12:17:28 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:17:29 basehttp "GET /admin/home2app/author/?o=1.-5 HTTP/1.1" 200 15213
+INFO 02-10-2023 12:17:29 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:17:30 basehttp "GET /admin/home2app/author/?o=1.5 HTTP/1.1" 200 15198
+INFO 02-10-2023 12:17:30 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:17:31 basehttp "GET /admin/home2app/author/?o=3.1.5 HTTP/1.1" 200 15625
+INFO 02-10-2023 12:17:31 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:17:33 basehttp "GET /admin/home2app/author/?o=4.3.1.5 HTTP/1.1" 200 16060
+INFO 02-10-2023 12:17:33 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:17:35 basehttp "GET /admin/home2app/author/?o=-1.4.3.5 HTTP/1.1" 200 16079
+INFO 02-10-2023 12:17:35 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:17:36 basehttp "GET /admin/home2app/author/?o=-3.-1.4.5 HTTP/1.1" 200 16098
+INFO 02-10-2023 12:17:36 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:17:37 basehttp "GET /admin/home2app/author/?o=3.-1.4.5 HTTP/1.1" 200 16079
+INFO 02-10-2023 12:17:37 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:17:40 basehttp "GET /admin/home2app/author/?o=-1.4.5 HTTP/1.1" 200 15642
+INFO 02-10-2023 12:17:40 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:17:41 basehttp "GET /admin/home2app/author/?o=-1.5 HTTP/1.1" 200 15213
+INFO 02-10-2023 12:17:42 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:17:44 basehttp "GET /admin/home2app/author/?o=-1 HTTP/1.1" 200 14707
+INFO 02-10-2023 12:17:44 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:17:48 basehttp "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 200 1094
+INFO 02-10-2023 12:18:07 basehttp "POST /admin/home2app/author/?o=-1 HTTP/1.1" 302 0
+INFO 02-10-2023 12:18:07 basehttp "GET /admin/home2app/author/?o=-1 HTTP/1.1" 200 14859
+INFO 02-10-2023 12:18:07 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:20:19 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:20:20 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:20:21 basehttp "GET /admin/home2app/author/?o=-1 HTTP/1.1" 200 15239
+INFO 02-10-2023 12:20:21 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:20:28 basehttp "GET /admin/home2app/author/?q=%D0%B6%D0%BE%D0%BF%D0%B0&o=-1 HTTP/1.1" 200 13573
+INFO 02-10-2023 12:20:28 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:20:31 basehttp "GET /admin/home2app/author/? HTTP/1.1" 200 15573
+INFO 02-10-2023 12:20:32 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:23:22 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:23:23 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:23:26 basehttp "GET /admin/home2app/article/ HTTP/1.1" 200 11615
+INFO 02-10-2023 12:23:26 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:23:29 basehttp "GET /admin/home2app/article/ HTTP/1.1" 200 11615
+INFO 02-10-2023 12:23:29 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:23:38 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:23:39 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:23:59 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:24:00 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:24:36 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:24:37 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:24:39 basehttp "GET /admin/home2app/article/ HTTP/1.1" 200 14842
+INFO 02-10-2023 12:24:39 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:28:05 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:28:06 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:28:52 basehttp "GET /admin/home2app/article/ HTTP/1.1" 200 14842
+INFO 02-10-2023 12:28:52 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:32:28 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:32:29 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:32:32 basehttp "GET /admin/home2app/article/ HTTP/1.1" 200 14842
+INFO 02-10-2023 12:32:32 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:32:34 basehttp "GET /admin/home2app/article/1/change/ HTTP/1.1" 200 16844
+INFO 02-10-2023 12:32:34 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:35:05 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:35:06 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:36:20 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:36:21 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:36:23 basehttp "GET /admin/home2app/article/ HTTP/1.1" 200 14842
+INFO 02-10-2023 12:36:23 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:36:25 basehttp "GET /admin/home2app/article/1/change/ HTTP/1.1" 200 17330
+INFO 02-10-2023 12:36:25 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:38:01 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:38:02 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:38:07 basehttp "GET /admin/home2app/article/ HTTP/1.1" 200 14842
+INFO 02-10-2023 12:38:09 basehttp "GET /admin/home2app/article/1/change/ HTTP/1.1" 200 17330
+INFO 02-10-2023 12:38:09 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:39:12 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:39:13 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:39:15 basehttp "GET /admin/home2app/article/1/change/ HTTP/1.1" 200 17330
+INFO 02-10-2023 12:39:15 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:40:36 basehttp "GET /admin/home2app/article/ HTTP/1.1" 200 14842
+INFO 02-10-2023 12:41:57 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:41:58 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:42:17 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:42:18 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:42:27 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:42:28 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:42:39 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:42:40 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:42:44 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:42:45 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:42:53 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:42:54 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:43:33 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:43:34 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:43:55 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:43:56 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:44:04 basehttp "GET /admin/home2app/article/1/change/ HTTP/1.1" 200 11593
+INFO 02-10-2023 12:44:04 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:45:08 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:45:09 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:45:39 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:45:40 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:45:44 basehttp "GET /admin/home2app/article/1/change/ HTTP/1.1" 200 12464
+INFO 02-10-2023 12:45:44 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 12:45:44 basehttp "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+INFO 02-10-2023 12:48:41 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2app\admin.py changed, reloading.
+INFO 02-10-2023 12:48:42 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 12:48:45 basehttp "GET /admin/home2app/article/1/change/ HTTP/1.1" 200 17690
+INFO 02-10-2023 12:48:45 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:52:53 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 13:52:54 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 13:52:58 basehttp "GET /admin/home2shopapp/client/ HTTP/1.1" 200 10353
+INFO 02-10-2023 13:52:58 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:53:00 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 10400
+INFO 02-10-2023 13:53:00 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:53:01 basehttp "GET /admin/home2shopapp/client/ HTTP/1.1" 200 10353
+INFO 02-10-2023 13:53:01 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:53:03 basehttp "GET /admin/home2shopapp/client/add/ HTTP/1.1" 200 13106
+INFO 02-10-2023 13:53:03 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:53:15 basehttp "POST /admin/home2shopapp/client/add/ HTTP/1.1" 302 0
+INFO 02-10-2023 13:53:15 basehttp "GET /admin/home2shopapp/client/ HTTP/1.1" 200 12507
+INFO 02-10-2023 13:53:15 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:53:32 basehttp "GET /admin/home2shopapp/client/1/change/ HTTP/1.1" 200 13684
+INFO 02-10-2023 13:53:32 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:53:34 basehttp "GET /admin/home2shopapp/client/ HTTP/1.1" 200 12209
+INFO 02-10-2023 13:56:18 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 13:56:19 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 13:56:21 basehttp "GET /admin/home2shopapp/client/ HTTP/1.1" 200 12209
+INFO 02-10-2023 13:56:21 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:56:25 basehttp "GET /admin/home2shopapp/client/ HTTP/1.1" 200 12209
+INFO 02-10-2023 13:56:25 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:56:26 basehttp "GET /admin/home2shopapp/client/ HTTP/1.1" 200 12209
+INFO 02-10-2023 13:56:26 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:56:34 basehttp "GET /admin/home2shopapp/product/ HTTP/1.1" 200 13847
+INFO 02-10-2023 13:56:34 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:56:41 basehttp "GET /admin/home2shopapp/product/1/change/ HTTP/1.1" 200 16058
+INFO 02-10-2023 13:56:41 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:56:43 basehttp "GET /admin/home2shopapp/product/ HTTP/1.1" 200 13847
+INFO 02-10-2023 13:56:49 basehttp "GET /admin/home2shopapp/order/ HTTP/1.1" 200 10346
+INFO 02-10-2023 13:56:49 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:56:51 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 10400
+INFO 02-10-2023 13:56:51 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:56:52 basehttp "GET /admin/home2shopapp/order/ HTTP/1.1" 200 10346
+INFO 02-10-2023 13:56:52 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:56:53 basehttp "GET /admin/home2shopapp/order/add/ HTTP/1.1" 200 13662
+INFO 02-10-2023 13:56:53 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:57:05 basehttp "POST /admin/home2shopapp/order/add/ HTTP/1.1" 200 13816
+INFO 02-10-2023 13:57:05 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:58:39 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 13:58:42 basehttp "POST /admin/home2shopapp/order/add/ HTTP/1.1" 302 0
+INFO 02-10-2023 13:58:42 basehttp "GET /admin/home2shopapp/order/ HTTP/1.1" 200 11826
+INFO 02-10-2023 13:58:43 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:58:48 basehttp "GET /admin/home2shopapp/order/1/change/ HTTP/1.1" 200 13342
+INFO 02-10-2023 13:58:48 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:58:50 basehttp "GET /admin/home2shopapp/order/1/delete/ HTTP/1.1" 200 10440
+INFO 02-10-2023 13:58:50 basehttp "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 02-10-2023 13:58:51 basehttp "POST /admin/home2shopapp/order/1/delete/ HTTP/1.1" 302 0
+INFO 02-10-2023 13:58:51 basehttp "GET /admin/home2shopapp/order/ HTTP/1.1" 200 10516
+INFO 02-10-2023 13:58:51 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:58:52 basehttp "GET /admin/home2shopapp/order/ HTTP/1.1" 200 10346
+INFO 02-10-2023 13:58:52 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:58:54 basehttp "GET /admin/home2shopapp/order/add/ HTTP/1.1" 200 13008
+INFO 02-10-2023 13:58:54 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:58:59 basehttp "POST /admin/home2shopapp/order/add/ HTTP/1.1" 302 0
+INFO 02-10-2023 13:58:59 basehttp "GET /admin/home2shopapp/order/ HTTP/1.1" 200 11826
+INFO 02-10-2023 13:58:59 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:59:01 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 10400
+INFO 02-10-2023 13:59:01 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:59:02 basehttp "GET /admin/home2shopapp/orderproduct/add/ HTTP/1.1" 200 15524
+INFO 02-10-2023 13:59:02 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 13:59:15 basehttp "POST /admin/home2shopapp/orderproduct/add/ HTTP/1.1" 302 0
+INFO 02-10-2023 13:59:15 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 11932
+INFO 02-10-2023 13:59:15 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:01:32 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:01:33 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:01:40 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:01:42 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:02:08 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:02:09 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:02:10 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 11690
+INFO 02-10-2023 14:02:10 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:02:19 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 11690
+INFO 02-10-2023 14:02:19 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:02:20 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 11690
+INFO 02-10-2023 14:02:20 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:02:21 basehttp "GET /admin/home2shopapp/order/ HTTP/1.1" 200 12756
+INFO 02-10-2023 14:02:21 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:02:34 basehttp "POST /admin/home2shopapp/order/ HTTP/1.1" 302 0
+INFO 02-10-2023 14:02:34 basehttp "GET /admin/home2shopapp/order/ HTTP/1.1" 200 12915
+INFO 02-10-2023 14:02:34 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:02:37 basehttp "GET /admin/home2shopapp/product/ HTTP/1.1" 200 13847
+INFO 02-10-2023 14:02:37 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:02:38 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 11690
+INFO 02-10-2023 14:02:38 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:05:15 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:05:17 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:05:21 basehttp "GET /admin/home2shopapp/order/ HTTP/1.1" 200 12764
+INFO 02-10-2023 14:05:21 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:05:22 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 11690
+INFO 02-10-2023 14:05:22 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:05:38 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:05:39 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:05:40 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 13119
+INFO 02-10-2023 14:05:40 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:06:29 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\models.py changed, reloading.
+INFO 02-10-2023 14:06:30 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:06:32 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 13038
+INFO 02-10-2023 14:06:32 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:06:59 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\models.py changed, reloading.
+INFO 02-10-2023 14:07:00 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:07:01 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 13072
+INFO 02-10-2023 14:07:01 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:07:48 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\models.py changed, reloading.
+INFO 02-10-2023 14:07:49 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:07:51 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 13178
+INFO 02-10-2023 14:07:51 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:11:11 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:11:12 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:11:23 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:11:25 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:11:27 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 13178
+INFO 02-10-2023 14:11:27 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:11:30 basehttp "GET /admin/home2shopapp/orderproduct/1/change/ HTTP/1.1" 200 15809
+INFO 02-10-2023 14:11:30 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:11:33 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 13178
+INFO 02-10-2023 14:11:35 basehttp "GET /admin/home2shopapp/order/ HTTP/1.1" 200 12764
+INFO 02-10-2023 14:11:35 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:11:38 basehttp "GET /admin/home2shopapp/order/2/change/ HTTP/1.1" 200 14221
+INFO 02-10-2023 14:11:38 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:11:43 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 13178
+INFO 02-10-2023 14:11:43 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:11:46 basehttp "GET /admin/home2shopapp/orderproduct/1/change/ HTTP/1.1" 200 15809
+INFO 02-10-2023 14:11:46 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:11:49 basehttp "POST /admin/home2shopapp/orderproduct/1/change/ HTTP/1.1" 302 0
+INFO 02-10-2023 14:11:49 basehttp "GET /admin/home2shopapp/orderproduct/ HTTP/1.1" 200 13422
+INFO 02-10-2023 14:11:49 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:11:51 basehttp "GET /admin/home2shopapp/order/ HTTP/1.1" 200 12764
+INFO 02-10-2023 14:11:51 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:11:53 basehttp "GET /admin/home2shopapp/order/2/change/ HTTP/1.1" 200 14221
+INFO 02-10-2023 14:11:53 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:12:48 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:12:49 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:12:51 basehttp "GET /admin/home2shopapp/order/2/change/ HTTP/1.1" 200 14221
+INFO 02-10-2023 14:12:51 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:12:59 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:13:00 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:13:01 basehttp "GET /admin/home2shopapp/order/2/change/ HTTP/1.1" 200 14221
+INFO 02-10-2023 14:13:01 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:13:38 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:13:39 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:13:41 basehttp "GET /admin/home2shopapp/order/2/change/ HTTP/1.1" 200 14221
+INFO 02-10-2023 14:13:41 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:14:08 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\models.py changed, reloading.
+INFO 02-10-2023 14:14:09 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:14:09 basehttp "GET /admin/home2shopapp/order/2/change/ HTTP/1.1" 200 14224
+INFO 02-10-2023 14:14:09 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:14:30 basehttp "GET /admin/home2shopapp/client/1/change/?_to_field=id&_popup=1 HTTP/1.1" 200 6638
+INFO 02-10-2023 14:14:30 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:14:34 basehttp "GET /admin/home2shopapp/client/1/change/?_to_field=id HTTP/1.1" 200 13733
+INFO 02-10-2023 14:14:34 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:14:36 basehttp "GET /admin/home2shopapp/order/2/change/ HTTP/1.1" 200 14224
+INFO 02-10-2023 14:14:41 basehttp "GET /admin/home2shopapp/product/ HTTP/1.1" 200 13847
+INFO 02-10-2023 14:14:41 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:14:43 basehttp "GET /admin/home2shopapp/product/2/change/ HTTP/1.1" 200 15930
+INFO 02-10-2023 14:14:43 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:16:02 basehttp "GET /media/product_photos/2023/9/30/kop2.jpg HTTP/1.1" 304 0
+INFO 02-10-2023 14:19:11 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:19:12 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:20:00 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:20:01 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:20:02 basehttp "GET /admin/ HTTP/1.1" 200 13166
+INFO 02-10-2023 14:20:05 basehttp "GET /admin/home2shopapp/product/ HTTP/1.1" 200 13847
+INFO 02-10-2023 14:20:05 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:20:06 basehttp "GET /admin/home2shopapp/product/1/change/ HTTP/1.1" 200 12321
+INFO 02-10-2023 14:20:06 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:21:19 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:21:20 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:21:21 basehttp "GET /admin/home2shopapp/product/1/change/ HTTP/1.1" 200 13215
+INFO 02-10-2023 14:21:21 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:24:03 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:24:05 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:24:05 basehttp "GET /admin/home2shopapp/product/1/change/ HTTP/1.1" 200 17471
+INFO 02-10-2023 14:24:05 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:24:48 basehttp "GET /media/product_photos/2023/9/30/palki-kopalki-2.jpg HTTP/1.1" 200 16534
+INFO 02-10-2023 14:24:51 basehttp "GET /admin/home2shopapp/product/1/change/ HTTP/1.1" 200 17471
+INFO 02-10-2023 14:25:20 basehttp "GET /admin/home2shopapp/product/ HTTP/1.1" 200 13847
+INFO 02-10-2023 14:27:03 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:27:04 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:27:13 basehttp "GET /admin/home2shopapp/product/ HTTP/1.1" 200 13938
+INFO 02-10-2023 14:27:13 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:27:18 basehttp "GET /admin/home2shopapp/product/2/change/ HTTP/1.1" 200 17484
+INFO 02-10-2023 14:27:18 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:27:20 basehttp "GET /admin/home2shopapp/product/ HTTP/1.1" 200 13938
+INFO 02-10-2023 14:27:41 basehttp "POST /admin/home2shopapp/product/ HTTP/1.1" 302 0
+INFO 02-10-2023 14:27:41 basehttp "GET /admin/home2shopapp/product/ HTTP/1.1" 200 13938
+INFO 02-10-2023 14:27:41 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:27:42 basehttp "GET /admin/home2shopapp/product/2/change/ HTTP/1.1" 200 17484
+INFO 02-10-2023 14:27:42 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:27:46 basehttp "POST /admin/home2shopapp/product/2/change/ HTTP/1.1" 302 0
+INFO 02-10-2023 14:27:46 basehttp "GET /admin/home2shopapp/product/ HTTP/1.1" 200 14217
+INFO 02-10-2023 14:27:46 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:29:07 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:29:08 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:29:08 basehttp "GET /admin/home2shopapp/product/ HTTP/1.1" 200 15384
+INFO 02-10-2023 14:29:08 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:29:15 basehttp "GET /admin/home2shopapp/product/?o=5.1 HTTP/1.1" 200 15598
+INFO 02-10-2023 14:29:15 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:29:16 basehttp "GET /admin/home2shopapp/product/?o=-5.1 HTTP/1.1" 200 15615
+INFO 02-10-2023 14:29:16 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:30:13 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:30:14 autoreload Watching for file changes with StatReloader
+INFO 02-10-2023 14:30:16 basehttp "GET /admin/home2shopapp/product/?o=-5.1 HTTP/1.1" 200 16157
+INFO 02-10-2023 14:30:16 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 02-10-2023 14:30:37 autoreload C:\Users\Andre\PycharmProjects\gb_django\home\home2shopapp\admin.py changed, reloading.
+INFO 02-10-2023 14:30:38 autoreload Watching for file changes with StatReloader
