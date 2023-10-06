@@ -94,12 +94,12 @@ WSGI_APPLICATION = 'home.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'zayha$<your_database_name>',
+        'NAME': 'zayha$default',
         'USER': 'zayha',
         'PASSWORD': os.getenv('MYSQL_PASSWORD'),
-        'HOST': '<your_mysql_hostname>',
+        'HOST': 'zayha.mysql.pythonanywhere-services.com',
         'OPTIONS': {
-            'init_command': "SET NAMES 'utf8mb4'; SET sql_mode = 'STRICT_TRANS_TABLES'",
+            'init_command': "SET NAMES 'utf8mb4';SET sql_mode = 'STRICT_TRANS_TABLES'",
             'charset': 'utf8mb4',
         },
     }
