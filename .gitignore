@@ -1,0 +1,4 @@
+/home/log/
+*.sqlite3
+*.log
+*.pyc
